@@ -170,4 +170,5 @@ Token Type: operator
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
 
-
+## Contact
+For any inquiries or suggestions, please contact me via email at: umairahmedpaki7@gmail.com 
