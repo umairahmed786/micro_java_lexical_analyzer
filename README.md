@@ -29,7 +29,7 @@ class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
-
+````
 
 
 After running the Lexical Analyzer, the output.txt file might contain tokens identified from the code, such as:
@@ -163,7 +163,10 @@ Lexeme: }
 Row Number: 4
 Column Number: 0
 Token Type: operator
--------------------------------
+-------------------------------````
 
 
 ##Contributing
+If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request.
+
+
