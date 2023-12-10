@@ -1,0 +1,760 @@
+Lexeme: program
+Row Number: 0
+Column Number: 1
+Token Type: keyword
+-------------------------------
+Lexeme: P
+Row Number: 0
+Column Number: 9
+Token Type: identifier
+-------------------------------
+Lexeme: final
+Row Number: 1
+Column Number: 1
+Token Type: keyword
+-------------------------------
+Lexeme: int
+Row Number: 1
+Column Number: 7
+Token Type: identifier
+-------------------------------
+Lexeme: size
+Row Number: 1
+Column Number: 11
+Token Type: identifier
+-------------------------------
+Lexeme: >=
+Row Number: 1
+Column Number: 15
+Token Type: operator
+-------------------------------
+Lexeme: '102'
+Row Number: 1
+Column Number: 18
+Token Type: Unknown Token
+-------------------------------
+Lexeme: class
+Row Number: 2
+Column Number: 3
+Token Type: keyword
+-------------------------------
+Lexeme: Table
+Row Number: 2
+Column Number: 9
+Token Type: identifier
+-------------------------------
+Lexeme: {
+Row Number: 2
+Column Number: 14
+Token Type: operator
+-------------------------------
+Lexeme: int
+Row Number: 3
+Column Number: 5
+Token Type: identifier
+-------------------------------
+Lexeme: [
+Row Number: 3
+Column Number: 7
+Token Type: operator
+-------------------------------
+Lexeme: ]
+Row Number: 3
+Column Number: 8
+Token Type: operator
+-------------------------------
+Lexeme: pos
+Row Number: 3
+Column Number: 11
+Token Type: identifier
+-------------------------------
+Lexeme: int
+Row Number: 4
+Column Number: 5
+Token Type: identifier
+-------------------------------
+Lexeme: [
+Row Number: 4
+Column Number: 7
+Token Type: operator
+-------------------------------
+Lexeme: ]
+Row Number: 4
+Column Number: 8
+Token Type: operator
+-------------------------------
+Lexeme: neg
+Row Number: 4
+Column Number: 11
+Token Type: identifier
+-------------------------------
+Lexeme: }
+Row Number: 5
+Column Number: 2
+Token Type: operator
+-------------------------------
+Lexeme: Table
+Row Number: 6
+Column Number: 3
+Token Type: identifier
+-------------------------------
+Lexeme: val
+Row Number: 6
+Column Number: 9
+Token Type: identifier
+-------------------------------
+Lexeme: {
+Row Number: 7
+Column Number: 0
+Token Type: operator
+-------------------------------
+Lexeme: void
+Row Number: 8
+Column Number: 3
+Token Type: keyword
+-------------------------------
+Lexeme: main
+Row Number: 8
+Column Number: 8
+Token Type: identifier
+-------------------------------
+Lexeme: (
+Row Number: 8
+Column Number: 11
+Token Type: operator
+-------------------------------
+Lexeme: )
+Row Number: 8
+Column Number: 12
+Token Type: operator
+-------------------------------
+Lexeme: int
+Row Number: 9
+Column Number: 5
+Token Type: identifier
+-------------------------------
+Lexeme: x
+Row Number: 9
+Column Number: 9
+Token Type: identifier
+-------------------------------
+Lexeme: ,
+Row Number: 9
+Column Number: 9
+Token Type: operator
+-------------------------------
+Lexeme: i
+Row Number: 9
+Column Number: 12
+Token Type: identifier
+-------------------------------
+Lexeme: {
+Row Number: 10
+Column Number: 2
+Token Type: operator
+-------------------------------
+Lexeme: val
+Row Number: 11
+Column Number: 5
+Token Type: identifier
+-------------------------------
+Lexeme: =
+Row Number: 11
+Column Number: 8
+Token Type: operator
+-------------------------------
+Lexeme: new
+Row Number: 11
+Column Number: 11
+Token Type: keyword
+-------------------------------
+Lexeme: Table
+Row Number: 11
+Column Number: 15
+Token Type: identifier
+-------------------------------
+Lexeme: val
+Row Number: 12
+Column Number: 5
+Token Type: identifier
+-------------------------------
+Lexeme: .
+Row Number: 12
+Column Number: 7
+Token Type: operator
+-------------------------------
+Lexeme: pos
+Row Number: 12
+Column Number: 9
+Token Type: identifier
+-------------------------------
+Lexeme: =
+Row Number: 12
+Column Number: 12
+Token Type: operator
+-------------------------------
+Lexeme: new
+Row Number: 12
+Column Number: 15
+Token Type: keyword
+-------------------------------
+Lexeme: int
+Row Number: 12
+Column Number: 19
+Token Type: identifier
+-------------------------------
+Lexeme: [
+Row Number: 12
+Column Number: 21
+Token Type: operator
+-------------------------------
+Lexeme: size
+Row Number: 12
+Column Number: 23
+Token Type: identifier
+-------------------------------
+Lexeme: ]
+Row Number: 12
+Column Number: 26
+Token Type: operator
+-------------------------------
+Lexeme: val
+Row Number: 13
+Column Number: 5
+Token Type: identifier
+-------------------------------
+Lexeme: .
+Row Number: 13
+Column Number: 7
+Token Type: operator
+-------------------------------
+Lexeme: neg
+Row Number: 13
+Column Number: 9
+Token Type: identifier
+-------------------------------
+Lexeme: =
+Row Number: 13
+Column Number: 12
+Token Type: operator
+-------------------------------
+Lexeme: new
+Row Number: 13
+Column Number: 15
+Token Type: keyword
+-------------------------------
+Lexeme: int
+Row Number: 13
+Column Number: 19
+Token Type: identifier
+-------------------------------
+Lexeme: [
+Row Number: 13
+Column Number: 21
+Token Type: operator
+-------------------------------
+Lexeme: size
+Row Number: 13
+Column Number: 23
+Token Type: identifier
+-------------------------------
+Lexeme: ]
+Row Number: 13
+Column Number: 26
+Token Type: operator
+-------------------------------
+Lexeme: i
+Row Number: 14
+Column Number: 5
+Token Type: identifier
+-------------------------------
+Lexeme: =
+Row Number: 14
+Column Number: 6
+Token Type: operator
+-------------------------------
+Lexeme: 0
+Row Number: 14
+Column Number: 9
+Token Type: number
+-------------------------------
+Lexeme: while
+Row Number: 15
+Column Number: 5
+Token Type: keyword
+-------------------------------
+Lexeme: (
+Row Number: 15
+Column Number: 10
+Token Type: operator
+-------------------------------
+Lexeme: i
+Row Number: 15
+Column Number: 12
+Token Type: identifier
+-------------------------------
+Lexeme: <
+Row Number: 15
+Column Number: 13
+Token Type: operator
+-------------------------------
+Lexeme: size
+Row Number: 15
+Column Number: 16
+Token Type: identifier
+-------------------------------
+Lexeme: )
+Row Number: 15
+Column Number: 19
+Token Type: operator
+-------------------------------
+Lexeme: {
+Row Number: 15
+Column Number: 21
+Token Type: operator
+-------------------------------
+Lexeme: val
+Row Number: 16
+Column Number: 7
+Token Type: identifier
+-------------------------------
+Lexeme: .
+Row Number: 16
+Column Number: 9
+Token Type: operator
+-------------------------------
+Lexeme: pos
+Row Number: 16
+Column Number: 11
+Token Type: identifier
+-------------------------------
+Lexeme: [
+Row Number: 16
+Column Number: 13
+Token Type: operator
+-------------------------------
+Lexeme: i
+Row Number: 16
+Column Number: 15
+Token Type: identifier
+-------------------------------
+Lexeme: ]
+Row Number: 16
+Column Number: 15
+Token Type: operator
+-------------------------------
+Lexeme: =
+Row Number: 16
+Column Number: 17
+Token Type: operator
+-------------------------------
+Lexeme: 0
+Row Number: 16
+Column Number: 20
+Token Type: number
+-------------------------------
+Lexeme: val
+Row Number: 16
+Column Number: 23
+Token Type: identifier
+-------------------------------
+Lexeme: .
+Row Number: 16
+Column Number: 25
+Token Type: operator
+-------------------------------
+Lexeme: neg
+Row Number: 16
+Column Number: 27
+Token Type: identifier
+-------------------------------
+Lexeme: [
+Row Number: 16
+Column Number: 29
+Token Type: operator
+-------------------------------
+Lexeme: i
+Row Number: 16
+Column Number: 31
+Token Type: identifier
+-------------------------------
+Lexeme: ]
+Row Number: 16
+Column Number: 31
+Token Type: operator
+-------------------------------
+Lexeme: =
+Row Number: 16
+Column Number: 33
+Token Type: operator
+-------------------------------
+Lexeme: 0
+Row Number: 16
+Column Number: 36
+Token Type: number
+-------------------------------
+Lexeme: i
+Row Number: 17
+Column Number: 7
+Token Type: identifier
+-------------------------------
+Lexeme: =
+Row Number: 17
+Column Number: 8
+Token Type: operator
+-------------------------------
+Lexeme: i
+Row Number: 17
+Column Number: 11
+Token Type: identifier
+-------------------------------
+Lexeme: +
+Row Number: 17
+Column Number: 12
+Token Type: operator
+-------------------------------
+Lexeme: 1
+Row Number: 17
+Column Number: 15
+Token Type: number
+-------------------------------
+Lexeme: }
+Row Number: 18
+Column Number: 4
+Token Type: operator
+-------------------------------
+Lexeme: read
+Row Number: 20
+Column Number: 5
+Token Type: keyword
+-------------------------------
+Lexeme: (
+Row Number: 20
+Column Number: 8
+Token Type: operator
+-------------------------------
+Lexeme: x
+Row Number: 20
+Column Number: 10
+Token Type: identifier
+-------------------------------
+Lexeme: )
+Row Number: 20
+Column Number: 10
+Token Type: operator
+-------------------------------
+Lexeme: while
+Row Number: 21
+Column Number: 5
+Token Type: keyword
+-------------------------------
+Lexeme: (
+Row Number: 21
+Column Number: 10
+Token Type: operator
+-------------------------------
+Lexeme: x
+Row Number: 21
+Column Number: 12
+Token Type: identifier
+-------------------------------
+Lexeme: !=
+Row Number: 21
+Column Number: 13
+Token Type: operator
+-------------------------------
+Lexeme: 0
+Row Number: 21
+Column Number: 16
+Token Type: number
+-------------------------------
+Lexeme: )
+Row Number: 21
+Column Number: 16
+Token Type: operator
+-------------------------------
+Lexeme: {
+Row Number: 21
+Column Number: 18
+Token Type: operator
+-------------------------------
+Lexeme: if
+Row Number: 22
+Column Number: 7
+Token Type: keyword
+-------------------------------
+Lexeme: (
+Row Number: 22
+Column Number: 9
+Token Type: operator
+-------------------------------
+Lexeme: x
+Row Number: 22
+Column Number: 11
+Token Type: identifier
+-------------------------------
+Lexeme: >=
+Row Number: 22
+Column Number: 12
+Token Type: operator
+-------------------------------
+Lexeme: 0
+Row Number: 22
+Column Number: 15
+Token Type: number
+-------------------------------
+Lexeme: )
+Row Number: 22
+Column Number: 15
+Token Type: operator
+-------------------------------
+Lexeme: {
+Row Number: 22
+Column Number: 17
+Token Type: operator
+-------------------------------
+Lexeme: val
+Row Number: 23
+Column Number: 9
+Token Type: identifier
+-------------------------------
+Lexeme: .
+Row Number: 23
+Column Number: 11
+Token Type: operator
+-------------------------------
+Lexeme: pos
+Row Number: 23
+Column Number: 13
+Token Type: identifier
+-------------------------------
+Lexeme: [
+Row Number: 23
+Column Number: 15
+Token Type: operator
+-------------------------------
+Lexeme: x
+Row Number: 23
+Column Number: 17
+Token Type: identifier
+-------------------------------
+Lexeme: ]
+Row Number: 23
+Column Number: 17
+Token Type: operator
+-------------------------------
+Lexeme: =
+Row Number: 23
+Column Number: 19
+Token Type: operator
+-------------------------------
+Lexeme: val
+Row Number: 23
+Column Number: 22
+Token Type: identifier
+-------------------------------
+Lexeme: .
+Row Number: 23
+Column Number: 24
+Token Type: operator
+-------------------------------
+Lexeme: pos
+Row Number: 23
+Column Number: 26
+Token Type: identifier
+-------------------------------
+Lexeme: [
+Row Number: 23
+Column Number: 28
+Token Type: operator
+-------------------------------
+Lexeme: x
+Row Number: 23
+Column Number: 30
+Token Type: identifier
+-------------------------------
+Lexeme: ]
+Row Number: 23
+Column Number: 30
+Token Type: operator
+-------------------------------
+Lexeme: +
+Row Number: 23
+Column Number: 32
+Token Type: operator
+-------------------------------
+Lexeme: 1
+Row Number: 23
+Column Number: 35
+Token Type: number
+-------------------------------
+Lexeme: }
+Row Number: 24
+Column Number: 6
+Token Type: operator
+-------------------------------
+Lexeme: else
+Row Number: 24
+Column Number: 9
+Token Type: keyword
+-------------------------------
+Lexeme: if
+Row Number: 24
+Column Number: 14
+Token Type: keyword
+-------------------------------
+Lexeme: (
+Row Number: 24
+Column Number: 16
+Token Type: operator
+-------------------------------
+Lexeme: x
+Row Number: 24
+Column Number: 18
+Token Type: identifier
+-------------------------------
+Lexeme: <
+Row Number: 24
+Column Number: 19
+Token Type: operator
+-------------------------------
+Lexeme: 0
+Row Number: 24
+Column Number: 22
+Token Type: number
+-------------------------------
+Lexeme: )
+Row Number: 24
+Column Number: 22
+Token Type: operator
+-------------------------------
+Lexeme: {
+Row Number: 24
+Column Number: 24
+Token Type: operator
+-------------------------------
+Lexeme: val
+Row Number: 25
+Column Number: 9
+Token Type: identifier
+-------------------------------
+Lexeme: .
+Row Number: 25
+Column Number: 11
+Token Type: operator
+-------------------------------
+Lexeme: neg
+Row Number: 25
+Column Number: 13
+Token Type: identifier
+-------------------------------
+Lexeme: [
+Row Number: 25
+Column Number: 15
+Token Type: operator
+-------------------------------
+Lexeme: -
+Row Number: 25
+Column Number: 16
+Token Type: operator
+-------------------------------
+Lexeme: x
+Row Number: 25
+Column Number: 18
+Token Type: identifier
+-------------------------------
+Lexeme: ]
+Row Number: 25
+Column Number: 18
+Token Type: operator
+-------------------------------
+Lexeme: =
+Row Number: 25
+Column Number: 20
+Token Type: operator
+-------------------------------
+Lexeme: val
+Row Number: 25
+Column Number: 23
+Token Type: identifier
+-------------------------------
+Lexeme: .
+Row Number: 25
+Column Number: 25
+Token Type: operator
+-------------------------------
+Lexeme: neg
+Row Number: 25
+Column Number: 27
+Token Type: identifier
+-------------------------------
+Lexeme: [
+Row Number: 25
+Column Number: 29
+Token Type: operator
+-------------------------------
+Lexeme: -
+Row Number: 25
+Column Number: 30
+Token Type: operator
+-------------------------------
+Lexeme: x
+Row Number: 25
+Column Number: 32
+Token Type: identifier
+-------------------------------
+Lexeme: ]
+Row Number: 25
+Column Number: 32
+Token Type: operator
+-------------------------------
+Lexeme: +
+Row Number: 25
+Column Number: 34
+Token Type: operator
+-------------------------------
+Lexeme: 1
+Row Number: 25
+Column Number: 37
+Token Type: number
+-------------------------------
+Lexeme: }
+Row Number: 26
+Column Number: 6
+Token Type: operator
+-------------------------------
+Lexeme: read
+Row Number: 27
+Column Number: 7
+Token Type: keyword
+-------------------------------
+Lexeme: (
+Row Number: 27
+Column Number: 10
+Token Type: operator
+-------------------------------
+Lexeme: x
+Row Number: 27
+Column Number: 12
+Token Type: identifier
+-------------------------------
+Lexeme: )
+Row Number: 27
+Column Number: 12
+Token Type: operator
+-------------------------------
+Lexeme: }
+Row Number: 28
+Column Number: 4
+Token Type: operator
+-------------------------------
+Lexeme: }
+Row Number: 29
+Column Number: 2
+Token Type: operator
+-------------------------------
+Lexeme: }
+Row Number: 30
+Column Number: 0
+Token Type: operator
+-------------------------------
